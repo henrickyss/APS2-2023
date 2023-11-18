@@ -1,3 +1,8 @@
+#lembrado q é preciso baixar o python, selenium, pandas, e o webdriver
+#no terminal
+#-m pip install pandas
+#-m pip install webdriver-manager
+#-m pip install selenium
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
